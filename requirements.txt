@@ -1,0 +1,6 @@
+streamlit
+pandas
+smtplib
+imaplib
+email
+datetime
